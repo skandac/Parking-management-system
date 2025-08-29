@@ -2,6 +2,9 @@
 
 A comprehensive, enterprise-grade parking management solution leveraging cutting-edge computer vision, machine learning, and modern web technologies.
 
+
+This is in experimenting phase and I have taken help from the curson to do some of the code 
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)
 ![React](https://img.shields.io/badge/React-18+-blue.svg)
